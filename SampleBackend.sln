@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleBackend.Application",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleBackend.Application.Tests", "SimpleBackend.Application.Tests\SimpleBackend.Application.Tests.csproj", "{31E21FCE-5398-4480-875D-B5CD66A2235E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBackend.Persistence", "SampleBackend.Persistence\SampleBackend.Persistence.csproj", "{13C40E4B-CDD3-4F92-95E7-7E1A27195D5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleBackend.Persistence", "SampleBackend.Persistence\SampleBackend.Persistence.csproj", "{13C40E4B-CDD3-4F92-95E7-7E1A27195D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBackend.Persistence.Tests", "SampleBackend.Persistence.Tests\SampleBackend.Persistence.Tests.csproj", "{5536E169-E4F3-459B-8882-5FB9B40FA894}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{13C40E4B-CDD3-4F92-95E7-7E1A27195D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13C40E4B-CDD3-4F92-95E7-7E1A27195D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13C40E4B-CDD3-4F92-95E7-7E1A27195D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5536E169-E4F3-459B-8882-5FB9B40FA894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5536E169-E4F3-459B-8882-5FB9B40FA894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5536E169-E4F3-459B-8882-5FB9B40FA894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5536E169-E4F3-459B-8882-5FB9B40FA894}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
