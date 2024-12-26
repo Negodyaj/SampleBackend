@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\SampleBackend.Persistence\SampleBackend.Persistence.csproj" />
-  </ItemGroup>
-
 </Project>
